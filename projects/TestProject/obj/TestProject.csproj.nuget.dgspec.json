@@ -1,27 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\mynam\\Desktop\\C#\\projects\\TestProject\\TestProject.csproj": {}
+    "C:\\Users\\mynam\\Desktop\\C#\\foundationalCsharp\\projects\\TestProject\\TestProject.csproj": {}
   },
   "projects": {
-    "C:\\Users\\mynam\\Desktop\\C#\\projects\\TestProject\\TestProject.csproj": {
+    "C:\\Users\\mynam\\Desktop\\C#\\foundationalCsharp\\projects\\TestProject\\TestProject.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mynam\\Desktop\\C#\\projects\\TestProject\\TestProject.csproj",
+        "projectUniqueName": "C:\\Users\\mynam\\Desktop\\C#\\foundationalCsharp\\projects\\TestProject\\TestProject.csproj",
         "projectName": "TestProject",
-        "projectPath": "C:\\Users\\mynam\\Desktop\\C#\\projects\\TestProject\\TestProject.csproj",
+        "projectPath": "C:\\Users\\mynam\\Desktop\\C#\\foundationalCsharp\\projects\\TestProject\\TestProject.csproj",
         "packagesPath": "C:\\Users\\mynam\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mynam\\Desktop\\C#\\projects\\TestProject\\obj\\",
+        "outputPath": "C:\\Users\\mynam\\Desktop\\C#\\foundationalCsharp\\projects\\TestProject\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\mynam\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\mynam\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -55,7 +53,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
         }
       }
     }

@@ -1,0 +1,14 @@
+C:\Users\mynam\Desktop\C#\foundationalCsharp\projects\renewSubscription\bin\Debug\net7.0\renewSubscription.exe
+C:\Users\mynam\Desktop\C#\foundationalCsharp\projects\renewSubscription\bin\Debug\net7.0\renewSubscription.deps.json
+C:\Users\mynam\Desktop\C#\foundationalCsharp\projects\renewSubscription\bin\Debug\net7.0\renewSubscription.runtimeconfig.json
+C:\Users\mynam\Desktop\C#\foundationalCsharp\projects\renewSubscription\bin\Debug\net7.0\renewSubscription.dll
+C:\Users\mynam\Desktop\C#\foundationalCsharp\projects\renewSubscription\bin\Debug\net7.0\renewSubscription.pdb
+C:\Users\mynam\Desktop\C#\foundationalCsharp\projects\renewSubscription\obj\Debug\net7.0\renewSubscription.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mynam\Desktop\C#\foundationalCsharp\projects\renewSubscription\obj\Debug\net7.0\renewSubscription.AssemblyInfoInputs.cache
+C:\Users\mynam\Desktop\C#\foundationalCsharp\projects\renewSubscription\obj\Debug\net7.0\renewSubscription.AssemblyInfo.cs
+C:\Users\mynam\Desktop\C#\foundationalCsharp\projects\renewSubscription\obj\Debug\net7.0\renewSubscription.csproj.CoreCompileInputs.cache
+C:\Users\mynam\Desktop\C#\foundationalCsharp\projects\renewSubscription\obj\Debug\net7.0\renewSubscription.dll
+C:\Users\mynam\Desktop\C#\foundationalCsharp\projects\renewSubscription\obj\Debug\net7.0\refint\renewSubscription.dll
+C:\Users\mynam\Desktop\C#\foundationalCsharp\projects\renewSubscription\obj\Debug\net7.0\renewSubscription.pdb
+C:\Users\mynam\Desktop\C#\foundationalCsharp\projects\renewSubscription\obj\Debug\net7.0\renewSubscription.genruntimeconfig.cache
+C:\Users\mynam\Desktop\C#\foundationalCsharp\projects\renewSubscription\obj\Debug\net7.0\ref\renewSubscription.dll

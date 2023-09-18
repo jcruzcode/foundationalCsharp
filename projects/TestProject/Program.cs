@@ -37,7 +37,7 @@ Console.WriteLine(largerValue); */
 // Write code that generates three random numbers and displays them in output
 
 // Create new object of the Random class
-Random dice = new Random();
+/* Random dice = new Random();
 
 // Initialize dice rolls
 int roll1 = dice.Next(1, 7); // returns int 1-6 inclusive
@@ -51,22 +51,35 @@ Console.WriteLine($"Dice roll: {roll1} + {roll2} + {roll3} = {total}");
 
 if ((roll1 == roll2) || (roll2 == roll3) || (roll1 == roll3)) 
 {
-    Console.WriteLine("You rolled doubles! +2 bonus to total!");
-    total += 2;
+    // if - else 
+    if ((roll1 == roll2) && (roll2 == roll3)) 
+    {
+        Console.WriteLine("You rolled triples! +6 bonus to total!");
+        total += 6;
+    }
+    else
+    {
+        Console.WriteLine("You rolled doubles! +2 bonus to total!");
+        total += 2;
+    }
+
 }
 
-if ((roll1 == roll2) && (roll2 == roll3)) 
-{
-    Console.WriteLine("You rolled triples! +6 bonus to total!");
-    total += 6;
-}
 
-if ( total >=  15 ) 
+// if - else if - else 
+if ( total >=  16 ) 
 {
-    Console.WriteLine("You win!");
+    Console.WriteLine("You win a  new car!");
 }
-
-if ( total < 15 ) 
+else if ( total >= 10)
 {
-    Console.WriteLine("Sorry you lose!");
+    Console.WriteLine("You win a new laptop!");
 }
+else if ( total == 7 ) 
+{
+    Console.WriteLine("You win a trip for two!");
+}
+else 
+{
+    Console.WriteLine("You win a kitten!");
+} */

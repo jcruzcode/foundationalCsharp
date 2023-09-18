@@ -1,0 +1,14 @@
+C:\Users\mynam\Desktop\C#\foundationalCsharp\projects\comments\bin\Debug\net7.0\comments.exe
+C:\Users\mynam\Desktop\C#\foundationalCsharp\projects\comments\bin\Debug\net7.0\comments.deps.json
+C:\Users\mynam\Desktop\C#\foundationalCsharp\projects\comments\bin\Debug\net7.0\comments.runtimeconfig.json
+C:\Users\mynam\Desktop\C#\foundationalCsharp\projects\comments\bin\Debug\net7.0\comments.dll
+C:\Users\mynam\Desktop\C#\foundationalCsharp\projects\comments\bin\Debug\net7.0\comments.pdb
+C:\Users\mynam\Desktop\C#\foundationalCsharp\projects\comments\obj\Debug\net7.0\comments.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mynam\Desktop\C#\foundationalCsharp\projects\comments\obj\Debug\net7.0\comments.AssemblyInfoInputs.cache
+C:\Users\mynam\Desktop\C#\foundationalCsharp\projects\comments\obj\Debug\net7.0\comments.AssemblyInfo.cs
+C:\Users\mynam\Desktop\C#\foundationalCsharp\projects\comments\obj\Debug\net7.0\comments.csproj.CoreCompileInputs.cache
+C:\Users\mynam\Desktop\C#\foundationalCsharp\projects\comments\obj\Debug\net7.0\comments.dll
+C:\Users\mynam\Desktop\C#\foundationalCsharp\projects\comments\obj\Debug\net7.0\refint\comments.dll
+C:\Users\mynam\Desktop\C#\foundationalCsharp\projects\comments\obj\Debug\net7.0\comments.pdb
+C:\Users\mynam\Desktop\C#\foundationalCsharp\projects\comments\obj\Debug\net7.0\comments.genruntimeconfig.cache
+C:\Users\mynam\Desktop\C#\foundationalCsharp\projects\comments\obj\Debug\net7.0\ref\comments.dll
